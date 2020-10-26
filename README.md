@@ -3,7 +3,7 @@
 
 ## Description
 
-A command-line application that dynamically generates a professional README.md from a user's input using the Inquirer package. Review the Good README guide as a reminder of everything that a quality, professional README contains. The application will be invoked with the following command:
+A command-line application that dynamically generates a professional README.md from a user's input using the Inquirer package. Review the Good README guide as a reminder of everything that a quality, professional README contains. The application will be invoked with the following command: node index.js
 
 ## Table of Contents 
 
@@ -34,9 +34,9 @@ undefined
 
 ## Instructions
 
-na 
+NA 
 
-## License
+
 ## License
 
 This project is licensed under the MIT license.
