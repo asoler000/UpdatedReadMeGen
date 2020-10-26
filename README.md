@@ -1,15 +1,17 @@
-# undefined
+# Read Me Generator
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-A command-line application that dynamically generates a professional README.md from a user's input using the Inquirer package. Review the Good README guide as a reminder of everything that a quality, professional README contains. The application will be invoked with the following command: node index.js
+ A command-line application that dynamically generates a professional README.md from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer).
 
 ## Table of Contents 
 
 * [Installation](#installation)
 
-* [Instructions](#Instructions)
+* [Instruction](#Instruction)
+
+* [Instruction Example](#Instruction Example)
 
 * [Example](#Example)
 
@@ -28,11 +30,16 @@ A command-line application that dynamically generates a professional README.md f
 To install necessary dependencies, run the following command:
 
 ```
-undefined
+Run command line npm install
 ```
 
 
 ## Instructions
+
+Answer questions and follow prompts 
+
+
+## Instruction Examples
 
 NA 
 
