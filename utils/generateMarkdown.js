@@ -26,7 +26,7 @@ This project is licensed under the ${license} license.`
 }
 
 function generateMarkdown(data) {
-  return `# ${data.tittle}
+  return `# ${data.projectTitle}
 ${renderLicenseBadge(data.license)}
 
 ## Description
@@ -37,7 +37,7 @@ ${data.projectDescription}
 
 * [Installation](#installation)
 
-* [Instructions](#Instructions)
+* [Instruction](#Instruction)
 
 * [Example](#Example)
 
@@ -56,15 +56,20 @@ ${data.projectDescription}
 To install necessary dependencies, run the following command:
 
 \`\`\`
-${data.installation}
+${data.installationProcess}
 \`\`\`
 
 
 ## Instructions
 
+${data.instruction} 
+
+
+## Examples
+
 ${data.instructionExample} 
 
-## License
+
 ${renderLicenseSection(data.license)}
   
 
