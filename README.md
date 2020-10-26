@@ -3,15 +3,13 @@
 
 ## Description
 
- A command-line application that dynamically generates a professional README.md from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer).
+A command-line application that dynamically generates a professional README.md from a user's input using the Inquirer package. Review the Good README guide as a reminder of everything that a quality, professional README contains. The application will be invoked with the following command: node index.js
 
 ## Table of Contents 
 
 * [Installation](#installation)
 
 * [Instruction](#Instruction)
-
-* [Instruction Example](#Instruction Example)
 
 * [Example](#Example)
 
@@ -30,16 +28,16 @@
 To install necessary dependencies, run the following command:
 
 ```
-Run command line npm install
+ npm install utils and npm install inquierer
 ```
 
 
 ## Instructions
 
-Answer questions and follow prompts 
+Run command line node index.js and answer the prompts 
 
 
-## Instruction Examples
+## Examples
 
 NA 
 
