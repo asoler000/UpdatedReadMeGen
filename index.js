@@ -17,7 +17,7 @@ const questions = [
 {
     type: "input",
     message: "What is your Project Title?",
-    name: "projectTittle"
+    name: "projectTitle"
 },
 {
     type: "checkbox",
@@ -35,12 +35,12 @@ const questions = [
 
 {
     type: "input",
-    message: "Provide detail description",
+    message: "Provide project description.",
     name: "projectDescription"
 },
 {
     type: "input",
-    message: "What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.",
+    message: "To install necessary dependencies, run the following command:",
     name: "installationProcess"
 },
 {
